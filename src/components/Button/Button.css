@@ -716,7 +716,6 @@ button {
   color: var(--btn-outline-destructive-disabled-bg);
   border: solid var(--btn-outline-destructive-disabled-border);
 }
-
 /*TEXT-PRIMARY*/
 .button-text-primary-default {
   background-color: transparent;
